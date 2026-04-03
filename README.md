@@ -27,7 +27,7 @@ Currently, I work at **Neuro.net** as a **Voice Agent Testing Engineer**. My wor
 I am a full-time **Linux user** (no looking back to Windows!). My workflow is built around terminal-centric tools and efficiency:
 - **Distro:** ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
 - **Compositor:** ![Wayland](https://img.shields.io/badge/MangoWM-Wayland-orange)
-- **Editor:** ![Helix](https://img.shields.io/badge/Helix/Zed-IDE-blue) (Vim motions enthusiast)
+- **Editor:** ![Helix](https://img.shields.io/badge/Helix/Zed-IDE-blue)
 - **Terminal:** ![Kitty](https://img.shields.io/badge/Kitty-Terminal-white) + ![Zellij](https://img.shields.io/badge/Zellij-Multiplexer-green)
 
 > **HJKL IS THE WAY** ⌨️
